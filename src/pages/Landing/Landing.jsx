@@ -58,11 +58,6 @@ export default function Landing() {
                   {text}
                 </li>
               ))}
-              {/*               
-              <li onClick={}>Наши работы</li>
-              <li onClick={}>Услуги</li>
-              <li onClick={}>О нас</li>
-              <li onClick={}>Контакты</li> */}
             </ul>
             <select>
               <option value="1">RU</option>
@@ -142,7 +137,7 @@ export default function Landing() {
           </Application>
         </Wrapper>
       </Black>
-      <Darkblue>
+      <BlueDark>
         <Wrapper>
           <Footer>
             <div>
@@ -178,7 +173,7 @@ export default function Landing() {
             </ul>
           </Footer>
         </Wrapper>
-      </Darkblue>
+      </BlueDark>
       <Black>
         <Wrapper>
           <div className="contacts">
@@ -198,6 +193,9 @@ export default function Landing() {
     </div>
   );
 }
+const BlueDark = styled.div`
+  background-color: #161925;
+`;
 const navigations = [
   {
     text: "Главная",
@@ -315,11 +313,17 @@ const Cover = styled.div`
   background-repeat: no-repeat;
   background-size: auto;
   background-size: cover;
+  height: 890px;
+  display: flex;
+  align-items: flex-start;
+  margin-top: -60px;
   section {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 100px 0px;
     filter: none;
+    /* margin-top: -60px; */
     img {
       width: 100%;
       /* height: 765px; */
@@ -344,8 +348,16 @@ const Cover = styled.div`
   }
 `;
 const Darkblue = styled.div`
+  height: 165px;
+  width: 100%;
+  -moz-transform: rotate(357deg) translate(0px, -80px) skew(0deg, 1deg);
+  -webkit-transform: rotate(357deg) translate(0px, -80px) skew(0deg, 1deg);
+  -o-transform: rotate(357deg) translate(0px, -80px) skew(0deg, 1deg);
+  -ms-transform: rotate(357deg) translate(0px, -80px) skew(0deg, 1deg);
+  transform: rotate(357deg) translate(0px, -80px) skew(0deg, 1deg);
   background: #161925;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-bottom: -150px;
 `;
 const Black = styled.div`
   background: #0f1118;
@@ -380,11 +392,15 @@ const Black = styled.div`
   }
 `;
 const Header = styled.div`
-  background-color: #161925;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 30px 0px;
+  padding: 5px 0px;
+  -moz-transform: rotate(361deg) translate(0px, 80px) skew(0deg, 1deg);
+  -webkit-transform: rotate(361deg) translate(0px, 80px) skew(0deg, 1deg);
+  -o-transform: rotate(361deg) translate(0px, 80px) skew(0deg, 1deg);
+  -ms-transform: rotate(361deg) translate(0px, 80px) skew(0deg, 1deg);
+  transform: rotate(361deg) translate(0px, 80px) skew(0deg, 1deg);
   select {
     width: 97px;
     color: white;
@@ -413,7 +429,7 @@ const Header = styled.div`
     font-family: "Inter";
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 38px;
     text-decoration: none;
     list-style: none;
