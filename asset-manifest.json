@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/AkSoft-project-app/static/css/main.944dc7c7.css",
+    "main.js": "/AkSoft-project-app/static/js/main.a7a2637f.js",
+    "static/media/work.png": "/AkSoft-project-app/static/media/work.cd77a903affaacd56f5d.png",
+    "static/media/banner.jpg": "/AkSoft-project-app/static/media/banner.5923fda81e50f93fb26f.jpg",
+    "static/media/gallery (2).svg": "/AkSoft-project-app/static/media/gallery (2).5584620c773bd59cb501fe2161f63dde.svg",
+    "static/media/gallery (3).svg": "/AkSoft-project-app/static/media/gallery (3).ea6c228bbd0fa9cd9cd5921ee4db5b56.svg",
+    "static/media/gallery (6).svg": "/AkSoft-project-app/static/media/gallery (6).ed200a3c18ffef11f0013bad78970ecb.svg",
+    "static/media/gallery (5).svg": "/AkSoft-project-app/static/media/gallery (5).97b5595cf69c9b5c97af14d98a1e292e.svg",
+    "static/media/gallery (4).svg": "/AkSoft-project-app/static/media/gallery (4).0f2dbc310a735fcd4ac984b12e554f85.svg",
+    "static/media/web2.svg": "/AkSoft-project-app/static/media/web2.032e7adcf6ff857b6fe644698016dee7.svg",
+    "static/media/logo aksoft.svg": "/AkSoft-project-app/static/media/logo aksoft.803571d1de39fa5069072236f7bd7787.svg",
+    "static/media/gallery (1).svg": "/AkSoft-project-app/static/media/gallery (1).94d3efadf6d2f5c9fc71a4aa2118459c.svg",
+    "static/media/mob.svg": "/AkSoft-project-app/static/media/mob.b258d0c2492eedc134bc51cb0c3760ea.svg",
+    "static/media/web.svg": "/AkSoft-project-app/static/media/web.1b1fa4f427b802e267f087fe3ff49f50.svg",
+    "static/media/icon1.svg": "/AkSoft-project-app/static/media/icon1.07fd58519d9f2eff7b9c965ebecb0ebe.svg",
+    "static/media/Instagram.svg": "/AkSoft-project-app/static/media/Instagram.c161ac791ac50077e851f868a4c37a20.svg",
+    "index.html": "/AkSoft-project-app/index.html",
+    "static/media/Facebook.svg": "/AkSoft-project-app/static/media/Facebook.ce97c596c3c864bc7485d1dc44312e57.svg",
+    "static/media/right.svg": "/AkSoft-project-app/static/media/right.7558ce7be20d99a1511a1e6151645117.svg",
+    "static/media/icon2.svg": "/AkSoft-project-app/static/media/icon2.c28fe5e9cd9e1b26edaba8f4580c1508.svg",
+    "static/media/left.svg": "/AkSoft-project-app/static/media/left.9e66ddd9d0d74bceb3f3abdc6168e366.svg",
+    "static/media/icon3.svg": "/AkSoft-project-app/static/media/icon3.b863234782d156250d013c87a8a9dc0f.svg",
+    "main.944dc7c7.css.map": "/AkSoft-project-app/static/css/main.944dc7c7.css.map",
+    "main.a7a2637f.js.map": "/AkSoft-project-app/static/js/main.a7a2637f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944dc7c7.css",
+    "static/js/main.a7a2637f.js"
+  ]
+}
